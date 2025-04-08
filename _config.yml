@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Muhtashim Shahrier"
+title                    : "Md. Muhtashim Shahrier"
 title_separator          : "-"
 name                     : &name "Md. Muhtashim Shahrier"
 description              : &description "Transportation Engineering | BUET"

@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Muhtashim Shahrier"
+title: "Md. Muhtashim Shahrier"
 author_profile: true
 ---
 
-I'm Muhtashim Shahrier, a transportation researcher from BUET. My work explores the intersection of machine learning, optimization, and network science for solving urban mobility challenges.
+I'm Md. Muhtashim Shahrier, a transportation researcher from BUET. My work explores the intersection of machine learning, optimization, and network science for solving urban mobility challenges.
 
 Recent projects include:
 - Pedestrian behavior analysis using custom-trained YOLOv8 and entropy metrics

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single 
 title: "YouTube Metadata Analysis in Bangladesh"
 permalink: /youtube-metadata/
 ---

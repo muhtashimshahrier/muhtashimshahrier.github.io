@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Application of Chaos Theory to Evaluate Pedestrian Behavior using Deep Learning based Video Analytics in Different Diurnal Variations"
 permalink: /chaos-thesis/
 ---

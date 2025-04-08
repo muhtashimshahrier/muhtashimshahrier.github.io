@@ -4,7 +4,6 @@ title: "Md. Muhtashim Shahrier"
 author_profile: true
 ---
 
-Transportation Researcher | AI · Optimization · Network Science
 
 I’m a recent Civil Engineering graduate from BUET, where I majored in Transportation and minored in Structural Engineering. My work focuses on solving urban mobility challenges through the lens of machine learning, optimization, and network science. I’m especially drawn to transportation because of its interdisciplinary nature — it connects civil engineering with computer science, urban planning, economics, and human behavior.
 

@@ -22,7 +22,7 @@ repository               : "muhtashimshahrier/muhtashimshahrier.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4216_edit.jpg"
+  avatar           : "/assets/images/IMG_4216_edit.jpg"
   name             : "Muhtashim Shahrier"
   pronouns         : # example: "she/her"  
   bio              : "Transportation researcher exploring networks, optimization, and intelligent systems for urban mobility."

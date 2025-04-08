@@ -4,32 +4,49 @@ title: "Md. Muhtashim Shahrier"
 author_profile: true
 ---
 
-I'm Md. Muhtashim Shahrier, a transportation researcher from BUET. My work explores the intersection of machine learning, optimization, and network science for solving urban mobility challenges.
+# Md. Muhtashim Shahrier  
+Transportation Researcher | AI · Optimization · Network Science
 
-Recent projects include:
-- Pedestrian behavior analysis using custom-trained YOLOv8 and entropy metrics
-- Transit access heatmap for Dhaka using DBSCAN and QGIS
-- Emergency response simulation on dynamic urban grids with Monte Carlo methods
-
-I'm especially interested in reinforcement learning, multi-agent systems, and resilient transport networks.
-
-You can find my [CV](/files/cv.pdf), [research projects](/portfolio/), and thesis work on this site.
+I’m a recent Civil Engineering graduate from BUET, where I majored in Transportation and minored in Structural Engineering. My work focuses on solving urban mobility challenges through the lens of machine learning, optimization, and network science. I’m especially drawn to transportation because of its interdisciplinary nature — it connects civil engineering with computer science, urban planning, economics, and human behavior.
 
 ---
 
-## About Me
+## Research Identity
 
-I graduated from BUET with a major in Transportation and a minor in Structural Engineering. My academic interests lie in the intersection of transportation systems and intelligent decision-making, particularly through reinforcement learning, optimization, and network science.
+I’m passionate about solving urban mobility challenges through interdisciplinary approaches that blend transportation engineering with machine learning, optimization, and network science. I’ve long been fascinated by intelligent systems and their potential to support smarter decision-making in cities.
 
-### Research Interests
-
-- Adaptive traffic control and emergency response using RL
-- Public transit accessibility and service equity
-- Game theory in connected vehicle systems
-- Transportation network resilience
-
-I'm currently preparing applications for Fall 2026 MS programs in Transportation Engineering and working on multiple independent research projects related to emergency response optimization and urban mobility in Dhaka.
+My recent work explores topics like pedestrian behavior modeling, transit accessibility, emergency response optimization, and agent-based mobility simulations. I’m especially interested in how reinforcement learning, game theory, and multi-agent coordination can improve the resilience and efficiency of urban transport networks.
 
 ---
 
-Beyond research, I enjoy exploring cities through maps, solving transportation puzzles, and learning languages — currently, I'm learning German.
+## Recent Projects
+
+- **Pedestrian Behavior Analysis:** Custom-trained YOLOv8 and DeepSORT to detect and track pedestrians; evaluated unpredictability using entropy and chaos theory.  
+- **Transit Access Heatmap for Dhaka:** Clustered 1,800+ bus stops using DBSCAN and visualized service intensity in QGIS.  
+- **Emergency Response Simulation:** Modeled emergency dispatch on dynamic urban grids using Monte Carlo simulation and edge vulnerability mapping.  
+
+---
+
+## Research Interests
+
+I’m broadly interested in intelligent transportation systems and how cities can be made more adaptive, efficient, and equitable. My current interests include:
+
+- Machine learning and optimization for urban mobility  
+- Network science and resilience in transportation systems  
+- Human-centered and accessible mobility planning  
+
+---
+
+## What I’m Working On
+
+I’m currently exploring research ideas at the intersection of transportation systems, AI, and optimization, while preparing for graduate study in Transportation Engineering. My focus is on building a strong foundation in intelligent mobility systems through self-driven projects, technical learning, and academic collaborations.
+
+---
+
+## Beyond Research
+
+Outside of academics, I enjoy exploring cities through maps and thinking up unconventional ideas — like using particle swarm coordination for public transport. I’m also a sports enthusiast who follows Formula 1, football, and cricket, not for the teams but for the beauty of the games themselves. In quieter moments, I like diving into the math behind machine learning models and understanding how these systems really work.
+
+---
+
+You can find my [CV](#), [research projects](#), and thesis work on this site.

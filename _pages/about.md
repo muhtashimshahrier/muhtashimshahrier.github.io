@@ -17,4 +17,4 @@ I’m currently exploring how intelligent systems can make cities more adaptive,
 
 ## Beyond Research
 
-Outside of academics, I enjoy exploring cities through maps and thinking up unconventional ideas — like using particle swarm coordination for public transport. I’m also a sports enthusiast who follows Formula 1, football, and cricket, not for the teams but for the beauty of the games themselves. In quieter moments, I like diving into the math behind machine learning models and understanding how these systems really work.
+Outside of academics, I enjoy imagining strange, futuristic (sometimes dystopian) ways mobility could evolve. From underground bike highways to teleportation networks where vehicles have minds of their own, I like daydreaming about systems that don't exist — yet. I’m also a sports enthusiast who follows Formula 1, football, and cricket, not for the teams but for the beauty of the games themselves. In quieter moments, I like diving into the math behind machine learning models and understanding how these systems really work.

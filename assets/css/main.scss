@@ -41,3 +41,11 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+// Custom styling starts here ↓↓↓
+
+.page__content p {
+  text-align: justify;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}

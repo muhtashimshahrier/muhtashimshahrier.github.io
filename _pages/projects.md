@@ -15,8 +15,8 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
 - [Transit Access Heatmap in Dhaka](#)  
   *DBSCAN-based clustering of 3,000+ bus stops and GIS heatmap generation to evaluate transit service intensity.*
 
-- [Four-Step Travel Demand Model (Synthetic City)](#)  
-  *Implements trip generation, distribution, mode choice, and traffic assignment for a synthetic 7-zone city.*
+- [Four-Step Travel Demand Model (Synthetic City)](/four-step-model/)  
+  *Implements trip generation, distribution, mode choice, and traffic assignment for a synthetic 5-zone city.*
 
 ## 📘 Academic Coursework Projects
 

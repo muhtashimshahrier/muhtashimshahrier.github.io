@@ -28,8 +28,11 @@
   document.addEventListener("DOMContentLoaded", function () {
     new Typed("#typed-name", {
       strings: ["Md. Muhtashim Shahrier"],
-      typeSpeed: 50,
-      showCursor: false
+      typeSpeed: 90,         // slower typing
+      startDelay: 300,       // slight delay after load
+      showCursor: true,
+      cursorChar: "█",       // classic blinking block
+      smartBackspace: false, // not relevant since you're not backspacing
     });
   });
 </script>

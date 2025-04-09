@@ -12,6 +12,8 @@ I’m a recent Civil Engineering graduate from the Bangladesh University of Engi
 ## Current Focus
 
 I’m currently exploring how intelligent systems can make cities more adaptive, efficient, and equitable. My academic interests include urban network modeling, AI in mobility, and transportation system resilience. I’m also preparing for graduate studies in Transportation Engineering and developing self-driven projects that blend technical depth with real-world relevance.
+Above all, I believe that transportation isn't just about movement — it's about shaping access, opportunity, and quality of life. I’m especially interested in how intelligent systems can contribute to more inclusive, equitable, and resilient urban mobility.
+
 
 ---
 

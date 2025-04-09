@@ -23,7 +23,7 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
 - [Capstone: Multifaith Center Development in Azimpur](/capstone-multifaith/) 
   *Led a team project involving site planning, structural ang geotechnical design, environmental analysis, and Traffic Impact Assessment for a proposed multifaith center in Dhaka.*
 
-- [Trip Generation Modeling (Term Project)](#)  
-  *Regression-based modeling of trip generation using socio-economic variables for Dhaka households.*
+- - [Trip Generation Modeling (Term Project)](/trip-generation-modeling/)  
+  *Regression-based modeling of weekday trip generation for students in Dhaka using socio-economic predictors and variable selection techniques.*
 
 

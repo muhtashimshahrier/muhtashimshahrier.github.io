@@ -36,4 +36,5 @@ The goal was to develop a custom-coded version of the four-step model as a hands
 
 ---
 
-[GitHub Repository](https://github.com/muhtashimshahrier/Custom-Four-Step-Demand-Model-From-Scratch)
+[GitHub Repository](https://github.com/muhtashimshahrier/Custom-Four-Step-Demand-Model-From-Scratch-)
+

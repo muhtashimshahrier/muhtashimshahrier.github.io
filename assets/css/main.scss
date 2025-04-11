@@ -56,19 +56,34 @@
   object-fit: cover;
 }
 
-.sidebar {
-  background-color: #e8f5e9;  /* Light green background */
-  color: #1b5e20;             /* Deep green text */
+/* ===== Green Sidebar Theme ===== */
+
+.sidebar.sticky {
+  background-color: #f4fef6;  /* soft light green */
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+  width: 100%;
+  border-right: 1px solid #ddd; /* optional soft divider */
+  color: #333333;
 }
 
 .sidebar a {
-  color: #2e7d32;             /* Link color */
+  color: #2e7d32; /* green link */
 }
 
 .sidebar a:hover {
-  color: #66bb6a;             /* Lighter green on hover */
+  color: #1b5e20; /* darker green on hover */
 }
 
 .sidebar .author__avatar {
-  border-color: #a5d6a7;      /* Optional: border around image */
+  border-color: #a5d6a7; /* optional green border */
+}
+
+/* Ensure layout consistency for wider screens */
+@media (min-width: 1000px) {
+  .sidebar {
+    padding-left: 0;
+    margin-left: 0;
+    background-color: #f4fef6;
+  }
 }

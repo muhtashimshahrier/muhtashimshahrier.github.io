@@ -49,42 +49,13 @@
   line-height: 1.7;
   margin-bottom: 1rem;
 }
-.author__avatar img {
-  border-radius: 0 !important;
-  width: 175px;
-  height: 175px;
+
+
+.author__avatar {
+  border-radius: 0;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
 }
 
-/* ============ Final Green Sidebar Fix ============ */
 
-.sidebar.sticky {
-  background-color: #f4fef6;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-  width: 100%;
-  border-right: 1px solid #ddd;
-  color: #333;
-}
-
-/* Remove outer margin/padding on the wrapper */
-.sidebar {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
-  background-color: #f4fef6;
-}
-
-/* Fix alignment inside parent layout */
-.page {
-  display: flex;
-}
-
-.page__sidebar {
-  margin-left: 0 !important;
-  background-color: #f4fef6;
-}
-
-/* Optional: make the main content not stick to sidebar */
-.page__content {
-  padding-left: 20px;
-}

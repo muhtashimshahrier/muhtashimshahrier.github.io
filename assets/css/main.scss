@@ -55,3 +55,20 @@
   height: 175px;
   object-fit: cover;
 }
+
+.sidebar {
+  background-color: #e8f5e9;  /* Light green background */
+  color: #1b5e20;             /* Deep green text */
+}
+
+.sidebar a {
+  color: #2e7d32;             /* Link color */
+}
+
+.sidebar a:hover {
+  color: #66bb6a;             /* Lighter green on hover */
+}
+
+.sidebar .author__avatar {
+  border-color: #a5d6a7;      /* Optional: border around image */
+}

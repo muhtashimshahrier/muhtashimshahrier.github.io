@@ -5,14 +5,7 @@ author_profile: true
 ---
 
 
-I’m a recent Civil Engineering graduate from the Bangladesh University of Engineering and Technology (BUET), where I majored in Transportation and minored in Structural Engineering. I’m interested in the intersection of machine learning, optimization, and network science for solving urban mobility challenges. I’m drawn to transportation for its interdisciplinary nature — connecting civil engineering with computer science, planning, economics, and human behavior.
-
----
-
-## Current Focus
-
-I’m currently exploring how intelligent systems can make cities more adaptive, efficient, and equitable. My academic interests include urban network modeling, AI in mobility, and transportation system resilience. I’m also preparing for graduate studies in Transportation Engineering and developing self-driven projects that blend technical depth with real-world relevance.
-Above all, I believe that transportation isn't just about movement — it's about shaping access, opportunity, and quality of life. I’m especially interested in how intelligent systems can contribute to more inclusive, equitable, and resilient urban mobility.
+I’m a Civil Engineering graduate from the Bangladesh University of Engineering and Technology (BUET), where I majored in Transportation and minored in Structural Engineering. I’m interested in the intersection of machine learning, optimization, and network science for tackling urban mobility challenges. I’m drawn to transportation for its interdisciplinary nature — where engineering connects with computer science, planning, economics, and human behavior. Above all, I believe transportation isn’t just about movement — it’s about shaping access, opportunity, and quality of life. I’m especially interested in how intelligent systems can contribute to more inclusive, equitable, and resilien transportation system. 
 
 
 ---

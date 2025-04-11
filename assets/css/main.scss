@@ -49,9 +49,9 @@
   line-height: 1.7;
   margin-bottom: 1rem;
 }
-.author__avatar {
-  border-radius: 0;
-  width: 150px;
-  height: 150px;
+.author__avatar img {
+  border-radius: 0 !important;
+  width: 175px;
+  height: 175px;
   object-fit: cover;
 }

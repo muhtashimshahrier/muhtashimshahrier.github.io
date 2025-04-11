@@ -56,34 +56,35 @@
   object-fit: cover;
 }
 
-/* ===== Green Sidebar Theme ===== */
+/* ============ Final Green Sidebar Fix ============ */
 
 .sidebar.sticky {
-  background-color: #f4fef6;  /* soft light green */
+  background-color: #f4fef6;
   padding-left: 0 !important;
   margin-left: 0 !important;
   width: 100%;
-  border-right: 1px solid #ddd; /* optional soft divider */
-  color: #333333;
+  border-right: 1px solid #ddd;
+  color: #333;
 }
 
-.sidebar a {
-  color: #2e7d32; /* green link */
+/* Remove outer margin/padding on the wrapper */
+.sidebar {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  background-color: #f4fef6;
 }
 
-.sidebar a:hover {
-  color: #1b5e20; /* darker green on hover */
+/* Fix alignment inside parent layout */
+.page {
+  display: flex;
 }
 
-.sidebar .author__avatar {
-  border-color: #a5d6a7; /* optional green border */
+.page__sidebar {
+  margin-left: 0 !important;
+  background-color: #f4fef6;
 }
 
-/* Ensure layout consistency for wider screens */
-@media (min-width: 1000px) {
-  .sidebar {
-    padding-left: 0;
-    margin-left: 0;
-    background-color: #f4fef6;
-  }
+/* Optional: make the main content not stick to sidebar */
+.page__content {
+  padding-left: 20px;
 }

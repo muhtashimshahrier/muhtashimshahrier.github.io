@@ -12,9 +12,9 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
 - [Reinforcement Learning for Emergency Dispatch](#)  
   *An in-depth project using RL with Monte Carlo simulation to optimize emergency response routing in uncertain urban environments.*
 
-- [Bus Route Access Heatmap in Dhaka](/bus-access-heatmap/) 
-
+- [Bus Route Access Heatmap in Dhaka](/bus-access-heatmap/)  
   *Spatial clustering of geocoded bus stops and GIS-based heatmap generation to visualize service intensity and identify underserved areas in Dhaka.*
+
 
 - [Four-Step Travel Demand Model (Synthetic City)](/four-step-model/)  
   *Implements trip generation, distribution, mode choice, and traffic assignment for a synthetic 5-zone city.*

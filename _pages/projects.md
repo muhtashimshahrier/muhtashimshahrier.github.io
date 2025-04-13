@@ -9,6 +9,9 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
 
 ## 🧪 Simulation Projects
 
+- [Facility Location Optimization on a Synthetic Grid Using Monte Carlo Simulation](facility-location/)  
+  *Simulates facility placement using Monte Carlo sampling and shortest-path analysis under edge-level travel time uncertainty.*
+
 - [Reinforcement Learning for Emergency Dispatch](#)  
   *An in-depth project using RL with Monte Carlo simulation to optimize emergency response routing in uncertain urban environments.*
 

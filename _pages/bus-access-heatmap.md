@@ -5,8 +5,6 @@ permalink: /bus-access-heatmap/
 author_profile: true
 ---
 
-## Bus Route Access Heatmap in Dhaka
-
 This project analyzes and visualizes the spatial intensity of bus service coverage across Dhaka using scraped route data, geocoded bus stops, clustering, and GIS heatmap generation. The objective was to identify well-served areas and detect underserved zones through both service intensity and population overlays.
 
 ---

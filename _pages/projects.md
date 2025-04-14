@@ -31,5 +31,5 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
   *Regression-based modeling of weekday trip generation for students in Dhaka using socio-economic predictors and variable selection techniques.*
 
 - **Warren Truss Bridge Analysis (MATLAB Term Project)**  
-  *Simulated Warren truss under moving loads using custom MATLAB code; visualized tension/compression forces and solved internal forces via matrix methods.*
+  *Developed a custom MATLAB program to compute internal forces under varying vehicle loads using matrix-based structural analysis; visualized tension and compression through color-coded truss diagrams.*
 

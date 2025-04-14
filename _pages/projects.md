@@ -24,7 +24,7 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
 
 ## 📘 Academic Coursework Projects
 
-- [Capstone: Multifaith Center Development in Azimpur](/capstone-multifaith/) 
+- [Capstone Project: Multifaith Center Development in Azimpur](/capstone-multifaith/)   
   *Led a team project involving site planning, structural ang geotechnical design, environmental analysis, and Traffic Impact Assessment for a proposed multifaith center in Dhaka.*
 
 - [Trip Generation Modeling (Term Project)](/trip-generation-modeling/)  

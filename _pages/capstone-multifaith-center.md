@@ -22,9 +22,9 @@ The goal was to integrate interfaith accessibility, structural safety, traffic m
 ## 🛠 Key Components
 - **Feasibility Study**: Demand analysis, Stakeholder interviews, SWOT, Financial viability
 - **Architectural & Structural Design**: ETABS-based 5-story structure 
-- **TIA Analysis**:
+- **Traffic Impact Assessment**:
   - Manual traffic counts & road geometry analysis
-  - LOS assessment and micro-simulation using **VISSIM**
+  - LOS assessment and micro-simulation
   - Proposed mitigation strategies for construction and operational phases
 - **Environmental and Risk Analysis**: EIA, climate resilience, disaster risk
 - **Cost-Benefit Analysis**: Project viability under various assumptions
@@ -34,7 +34,7 @@ The goal was to integrate interfaith accessibility, structural safety, traffic m
 ## 🧰 Tools & Standards
 - **Software**: ETABS, AutoCAD, Excel, VISSIM
 - **Codes Used**: BNBC 2020, ITE Trip Generation Manual, HCM (2010), ACI 318-08
-- **Survey Techniques**: Pedestrian and traffic count, short-duration traffic flow conversion
+- **Survey Techniques**: Socio-economic survey, Site survey, Pedestrian and traffic count
 
 ---
 

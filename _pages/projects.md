@@ -18,7 +18,7 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
 - [Facility Location Optimization on a Synthetic Grid Using Monte Carlo Simulation](/facility-location/)  
   *Simulates facility placement using Monte Carlo sampling and shortest-path analysis under edge-level travel time uncertainty.*
 
-- [Road Segment Importance Prediction with GNNs](/gnn-road-importance/)  
+- [Road Segment Importance Prediction with Graph Neural Networks (GNNs)](/gnn-road-importance/)  
   *Multi-class edge classification on Dhaka’s road network using GNNs and OSM data.*
 
 
@@ -26,7 +26,7 @@ Welcome to my Projects page! Here I showcase a mixture of simulation-based work 
 ## 📘 Academic Coursework Projects
 
 - [Capstone Project: Multifaith Center Development in Azimpur](/capstone-multifaith/)   
-  *Led a team project involving site planning, structural ang geotechnical design, environmental analysis, and Traffic Impact Assessment for a proposed multifaith center in Dhaka.*
+  *Led a team project involving site planning, structural and geotechnical design, environmental analysis, and Traffic Impact Assessment for a proposed multifaith center in Dhaka.*
 
 - [Trip Generation Modeling (Term Project)](/trip-generation-modeling/)  
   *Regression-based modeling of weekday trip generation for students in Dhaka using socio-economic predictors and variable selection techniques.*

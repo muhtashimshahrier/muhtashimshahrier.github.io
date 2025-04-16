@@ -29,10 +29,9 @@ The goal was to develop a custom-coded version of the four-step model as a hands
 ---
 
 ## 📊 Outputs
-- OD matrix generation and validation
-- Mode split estimation across OD pairs
-- Assigned traffic volumes on a synthetic network
-- Full code and visualizations available in the GitHub repo
+- Zone-level O-D matrices for both Auto and Transit
+- Network graph with edge labels for travel time and capacity
+- All-or-nothing assigned flows visualized using edge width
 
 ---
 

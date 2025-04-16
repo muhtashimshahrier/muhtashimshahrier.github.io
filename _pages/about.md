@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-I’m a Civil Engineering graduate from the Bangladesh University of Engineering and Technology (BUET), where I majored in Transportation and minored in Structural Engineering. My interests lie at the intersection of machine learning, uncertainty modeling, and transportation systems, particularly in data-driven approaches for improving mobility in complex urban environments. I’m drawn to transportation because of its interdisciplinary nature — blending engineering, planning, economics, and human behavior. I believe thoughtful research can create real impact, and I’m driven by the goal of contributing meaningfully to solving complex, real-world challenges. I’m especially interested in how intelligent systems can enable resilient, equitable, and efficient urban transport, even under conditions of demand and travel time uncertainty.
+I’m a Civil Engineering graduate from the Bangladesh University of Engineering and Technology (BUET), where I majored in Transportation and minored in Structural Engineering. My interests lie at the intersection of machine learning, uncertainty modeling, and transportation systems, particularly in data-driven approaches for improving mobility in complex urban environments. I’m drawn to transportation because of its interdisciplinary nature — blending engineering, planning, economics, and human behavior. I believe thoughtful research can create real impact, and I’m driven by the goal of contributing meaningfully to solving complex, real-world challenges. I’m specially interested in how intelligent systems can enable resilient, equitable, and efficient urban transport under uncertainty.
 
 ---
 

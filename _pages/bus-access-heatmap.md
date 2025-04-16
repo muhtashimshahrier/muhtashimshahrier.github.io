@@ -22,15 +22,14 @@ This project analyzes and visualizes the spatial intensity of bus service covera
 ### Tools Used
 
 - Python (pandas, geopy, fuzzywuzzy, scikit-learn)
-- QGIS 3.40
+- QGIS 3.40.5
 - OpenStreetMap basemap
 - WorldPop 1 km-resolution raster
 
 ---
 
 ### Repository
-
-You can view the full code and dataset here:  
+ 
 [GitHub Repository – Bus Route Access Heatmap](https://github.com/muhtashimshahrier/dhaka-bus-access-heatmap)
 
 ---

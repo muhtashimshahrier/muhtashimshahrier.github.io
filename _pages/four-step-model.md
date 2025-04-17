@@ -15,7 +15,7 @@ The goal was to develop a custom-coded version of the four-step model as a hands
 
 - **Trip Generation**: Synthetic population, household, and employment data were used to generate trips from each zone.
 - **Trip Distribution**: Gravity model used to estimate OD matrix based on impedance (travel cost).
-- **Mode Choice**: Simplified multinomial logit model to allocate trips to private or public modes.
+- **Mode Choice**: Simplified multinomial logit model to allocate trips to auto and transit modes.
 - **Traffic Assignment**: Deterministic shortest-path assignment using Dijkstra’s algorithm.
 
 ---
@@ -34,6 +34,10 @@ The goal was to develop a custom-coded version of the four-step model as a hands
 - All-or-nothing assigned flows visualized using edge width
 
 ---
+
+## Notes
+- All data are synthetic and meant for demonstration.
+- Inspired by a term final question of the course CE 457: Urban Transportation Planning and Management at BUET.
 
 [GitHub Repository](https://github.com/muhtashimshahrier/Custom-Four-Step-Demand-Model-From-Scratch-)
 

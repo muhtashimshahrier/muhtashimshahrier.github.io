@@ -11,7 +11,7 @@ The goal was to develop a custom-coded version of the four-step model as a hands
 
 ---
 
-## 🔄 Model Steps
+## Model Steps
 
 - **Trip Generation**: Synthetic population, household, and employment data were used to generate trips from each zone.
 - **Trip Distribution**: Gravity model used to estimate OD matrix based on impedance (travel cost).
@@ -20,7 +20,7 @@ The goal was to develop a custom-coded version of the four-step model as a hands
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - NumPy, pandas
 - NetworkX (for graph-based assignment)
@@ -28,7 +28,7 @@ The goal was to develop a custom-coded version of the four-step model as a hands
 
 ---
 
-## 📊 Outputs
+## Outputs
 - Zone-level O-D matrices for both Auto and Transit
 - Network graph with edge labels for travel time and capacity
 - All-or-nothing assigned flows visualized using edge width

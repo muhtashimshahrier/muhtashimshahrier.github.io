@@ -23,6 +23,7 @@ This work is currently being extended to a pedestrian-level predictive framework
 - Currently extending to pedestrian-level classification using trajectory, vehicle context, and group behavior features.
 
 **Tools:** Python, YOLOv8, DeepSORT, OpenCV, NumPy, Matplotlib
+
 **Keywords:** pedestrian behavior, chaos theory, deep learning, YOLO, DeepSORT, Lyapunov exponent, approximate entropy, urban mobility, uncertainty modeling
 
 [🔗 GitHub Repository](https://github.com/muhtashimshahrier/thesis-pedestrian-chaos-analysis)

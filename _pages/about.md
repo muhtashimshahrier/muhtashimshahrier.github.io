@@ -4,8 +4,7 @@ title: "Md. Muhtashim Shahrier"
 author_profile: true
 ---
 
-
-I’m a recent Civil Engineering graduate from the Bangladesh University of Engineering and Technology (BUET), where I majored in Transportation Engineering and minored in Structural Engineering. My interests lie at the intersection of machine learning, optimization, and uncertainty modeling in transportation systems — particularly in leveraging data-driven and learning-based approaches to improve decision-making in complex urban transport systems. I’m drawn to transportation engineering because of its interdisciplinary nature — blending engineering, planning, economics, and human behavior. I believe thoughtful research can create real impact, and I’m driven by the goal of contributing meaningfully to solving complex, real-world challenges. I’m especially interested in how intelligent systems — including optimization-based and learning-based models — can enable resilient, equitable, and efficient urban transport under uncertainty.
+I’m a Civil Engineering graduate from the Bangladesh University of Engineering and Technology (BUET), where I specialized in Transportation Engineering. My research interests broadly include data-driven and computational approaches to transportation systems, integrating concepts from machine learning, optimization, and system modeling to enhance mobility, safety, and efficiency in urban networks. I’m particularly motivated by interdisciplinary problems that combine engineering, behavior, and computation to address real-world transport challenges. I’m especially interested in how intelligent methods, can enable resilient, equitable, and sustainable urban transport systems under uncertainty.
 
 ---
 

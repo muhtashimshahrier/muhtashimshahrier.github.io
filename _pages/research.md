@@ -20,8 +20,6 @@ Here are some of my research projects:
 
 • **Shahrier, M. M.**, Haque, N., & Hadiuzzaman, M. (2025). *Deep learning-based nighttime road users’ detection and tracking in urban mixed traffic environments of Bangladesh.* International Conference on Civil Engineering Research & Innovations (ICCEI 2025), RUET, Rajshahi, Bangladesh.  
 
-• **Shahrier, M. M.** (2025). *Learning road segment importance in data-scarce urban networks using graph neural networks: A case study on Dhaka.* International Conference on Civil Engineering Research & Innovations (ICCEI 2025), RUET, Rajshahi, Bangladesh.  
-
 • Iftakhar, M. S., **Shahrier, M. M.**, Raihan, M. A., & Hadiuzzaman, M. (2025). *Identifying factors contributing to heavy vehicle crash severity in Bangladesh through comparative severity modeling.* International Conference on Civil Engineering Research & Innovations (ICCEI 2025), RUET, Rajshahi, Bangladesh.  
 
 • **Shahrier, M. M.**, Iftakhar, M. S., Hadiuzzaman, M., & Haque, N. (2025). *Challenges and policy directions for battery-powered rickshaws in Dhaka’s urban mobility landscape.* International Conference on Civil Engineering Research & Innovations (ICCEI 2025), RUET, Rajshahi, Bangladesh.
